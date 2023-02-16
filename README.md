@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🧑🏻‍💼 Business: gustianmalikajis@gmail.com
 - 👨 Personal: gustians306@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Actually I like graphic design
+- ⚡ Fun fact: Actually I love graphic design, shhh! it's a secret between us
 
