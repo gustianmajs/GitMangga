@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning in java and Python
 - 🤔 I’m looking for help with java
 - 📫 How to reach me: 
-- Business: gustianmalikajis@gmail.com
-- Personal: gustians306@gmail.com
+- 🧑🏻‍💼 Business: gustianmalikajis@gmail.com
+- 👨 Personal: gustians306@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Actually I like graphic design
 
