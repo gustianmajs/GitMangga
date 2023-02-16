@@ -1,4 +1,4 @@
-## Hi there 👋, I'm using Git  GitMangga
+## Hi there 👋, I'm using Git
 ### GitMangga 🥭
 
 <!--
