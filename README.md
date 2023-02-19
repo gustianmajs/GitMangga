@@ -7,11 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning in java and Python
-- 🤔 I’m looking for help with java
+- 🌱 I’m currently learning in Java and Python
+- 🤔 I’m looking for help with Java
 - 📫 How to reach me: gustians306@gmail.com
 - 🥭 Website: https://devmangga.wordpress.com
-
-
 - ⚡ Fun fact: Actually I love graphic design, shhh! it's a secret between us
 
